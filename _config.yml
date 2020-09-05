@@ -3,6 +3,7 @@ email: zeyadyasser101@gmail.com
 description: Blog
 url: "https://blog.zeyady.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zeyadyasser
+author:           'Zeyad Yasser'
 
 # Build settings
 markdown: kramdown
