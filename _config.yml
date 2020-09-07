@@ -18,4 +18,3 @@ paginate:       5
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme
-  - jekyll-sitemap
