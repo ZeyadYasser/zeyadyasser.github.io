@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Resources"
+author: "Zeyad Yasser"
+permalink: /resources/
+---
+
 # awesome-resources
 A list of links of useful learning resources
 
